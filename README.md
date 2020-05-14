@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-    <img alt="Spotify" src="imagens/site-home.png" />
+    <img alt="Spotify" src="imagens/site-home.PNG" />
 </p>
 <p align="center">
-    <img alt="Spotify" src="imagens/site-section.png"/>
+    <img alt="Spotify" src="imagens/site-section.PNG"/>
     
 </p>
 
