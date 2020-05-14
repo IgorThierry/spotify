@@ -64,17 +64,69 @@ nav.navbar-transparente {
 }
 
 /* Estrutura content */
-#servicos {
-  background: white;
+.caixa {
   padding: 20px 0;
 }
+#servicos {
+  background: white;
+}
 
-#servicos h2, h3 {
+#servicos h2,
+h3 {
   color: #7c25f8;
 }
 
 .albuns {
   padding: 10px 0;
+}
+
+#recursos {
+  color: white;
+}
+
+#recursos h2 {
+  color: white;
+}
+
+#recursos h3 {
+  color: #9bf0e1;
+}
+
+.rotacionar {
+  transform: rotate(30deg);
+  padding-left: 80px;
+}
+
+/* Rodape */
+footer {
+  background: black;
+  padding: 50px 0px 20px 0px;
+  position: relative;
+}
+
+footer .navbar-nav a {
+  color: white;
+  font-size: 0.8em;
+}
+
+footer .navbar-nav a:hover {
+  color: #9bf0e1;
+  text-decoration: none;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer ul li {
+  float: right;
+  margin: 0 5px;
+}
+
+footer h4 {
+  color: #919694;
+  font-size: 0.8em;
+  text-transform: uppercase;
 }
 
 /* Tipografia */
@@ -99,7 +151,6 @@ h3 {
 
 /* // Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-  
   .btn-custom {
     font-size: 1em;
   }
