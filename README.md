@@ -1,8 +1,8 @@
 <h1 align="center">
-	Finans
+	Spotify Clone
 </h1>
 
-<p align="center">Suas contas, descomplicadas</p>
+<p align="center">Música para todos</p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-2ecc71">
@@ -17,7 +17,11 @@
 </p>
 
 <p align="center">
-    <img alt="Museu Nacional" src="img/site.PNG" />
+    <img alt="Spotify" src="imagens/site-home.png" />
+</p>
+<p align="center">
+    <img alt="Spotify" src="imagens/site-section.png"/>
+    
 </p>
 
 ## 🚀 Projeto
@@ -30,7 +34,6 @@ Site desenvolvido com BootStrap 4, HTML e CSS por motivos didáticos.
 - FontAwesome 4
 - HTML
 - CSS
-- Normalize.css
 - EditorConfig;
 - VSCode
 
